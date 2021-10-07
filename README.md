@@ -1,2 +1,3 @@
-- 👋 Hi, I’m @ViktorKosandiak
+- 👋 Hi, I’m @ViktorKosandiak. ROR developer.
+
 
